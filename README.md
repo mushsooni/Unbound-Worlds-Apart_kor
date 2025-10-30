@@ -16,9 +16,9 @@ https://steamdb.info/patchnotes/7149651/
 
 ### 사용된 폰트
 
-전주완판본체 (전주 완판본 순R)  
+**전주완판본체** (전주 완판본 순R)  
 https://www.jeonju.go.kr/index.9is?contentUid=ff8080818990c349018b041a9e943a6d
 
-Noto Serif Korean (NotoSerifKR-Medium)  
+**Noto Serif Korean** (NotoSerifKR-Medium)  
 Copyright 2012 Google Inc. All Rights Reserved.  
 https://fonts.google.com/noto/specimen/Noto+Serif+KR/license
