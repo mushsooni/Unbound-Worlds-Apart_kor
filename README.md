@@ -5,7 +5,8 @@
 https://github.com/mushsooni/Unbound-Worlds-Apart_kor/releases
 
 ### 문의, 제보
-인디게임 갤러리 "Unbound: Worlds Apart 한글패치"
+인디게임 갤러리 "Unbound: Worlds Apart 한글패치"  
+https://gall.dcinside.com/indiegame/270206
 
 ### 패치 제작
 버섯순이(번역), Snowyegret(기술)
